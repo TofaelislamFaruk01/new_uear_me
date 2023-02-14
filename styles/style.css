@@ -66,9 +66,6 @@
 .year-article{
         margin-bottom: 20px;
 }
-
-/* did not complete*/
-
 /* my plan section */
 #plan-header{
     margin-top: 90px;
@@ -113,7 +110,38 @@
         margin-bottom: 30px;
         font-weight: 2em;
 }
+/* chatgpt section */
+.chatgpt-section {
+    text-align: center;
+}
 
+#chat-header {
+    margin: 30px;
+}
+
+.chat-content {
+    width: 70%;
+    display: flex;
+    gap: 30px;
+    text-align: left;
+    align-items: center;
+}
+
+#chat-details {
+    margin-left: 100px;
+    margin-right: 20px;
+}
+
+.chat-img {
+    width: 30%;
+}
+
+.chat-img img {
+    width: 600px;
+    height: 350px;
+    padding: 20px;
+    margin: 20px;
+}
 /* footer */
 footer{
     background-color: black;
