@@ -3,6 +3,11 @@
 * {
     margin: 0;
 }
+p {
+    font-weight: 500;
+    font-size:medium;
+}
+
 .button-primary {
     color: #005FAC;
     padding: 15px 25px;
@@ -116,6 +121,8 @@
 }
 
 #chat-header {
+    font-size: xx-large;
+    font-weight: 2em;
     margin: 30px;
 }
 
